@@ -1,2 +1,2 @@
-# snickle22.github.io
+# snickle22.tee-time-schedule
 Golf Schedule Website
